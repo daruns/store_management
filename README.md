@@ -1,4 +1,4 @@
-# gateway_task
+# store_management
 
 ## Project setup
 ```
@@ -17,4 +17,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# gateway_task_front_end
